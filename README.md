@@ -1,5 +1,5 @@
 
-![Funny Gif](https://media.giphy.com/media/cMPdlbcUKl3xkMCyD3/giphy.gif)
+![Funny Gif](giphy.webp)
 # Zachary Yi
 
 
