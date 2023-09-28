@@ -24,3 +24,6 @@ I also love biking as well, which is interesting because I hate exercise and swe
 
 ## My links 
 [Insta](https://instagram.com/schlepticsync) 
+
+## Dept of Design 
+[Eastern Washignton University](https://https://www.ewu.edu/cstem/design/)
