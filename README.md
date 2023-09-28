@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**zacharyyi/zacharyyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Funny Gif](https://media.giphy.com/media/cMPdlbcUKl3xkMCyD3/giphy.gif)
+# Zachary Yi
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> Computers are dumb and people are smart
+
+## Major 
+**BDEs** Visual Communication Design 
+
+## Skills 
+-Illustrator
+-Drawing?
+-
+
+## About Me 
+-I love hanging out with friends. I am an extrovert introvert. 
+
+## Superpowers 
+I love walking. If it's close, I will choose to walk everywhere 
+I also love biking as well, which is interesting because I hate exercise and sweating. But there is something so freeing about being outdoors.
+
+
+## My links 
+[Insta](https://instagram.com/schlepticsync) 
